@@ -17,3 +17,11 @@ Esse projeto foi criado com o intuito de aprofundar os estudos em git e github
 * git add .
 * git commit -m "Mensasgem explicativa"
 * git push
+
+## Clonar e modificar um projeto
+
+* git clone git@github.com:seuusuario/seurepositorio.git
+* git add .
+* git commit -m "Mensagem explicativa"
+* git push
+  
